@@ -1,11 +1,11 @@
 @font-face {
   font-family: heading;
-  src: url(fonts/TrenchThin-aZ1J.ttf);
+  src: url(TrenchThin-aZ1J.ttf);
 }
 
 @font-face {
   font-family: navbar;
-  src: url(fonts/SpaceFrigate-KVdW.ttf);
+  src: url(SpaceFrigate-KVdW.ttf);
 }
 
 header {
