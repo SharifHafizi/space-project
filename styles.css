@@ -1,18 +1,18 @@
 @font-face {
   font-family: navbar;
-  src: url(fonts/SpaceFrigate-KVdW.ttf);
+  src: url(SpaceFrigate-KVdW.ttf);
 }
 
 
 @font-face {
   font-family: main;
-  src: url(fonts/TrenchThin-aZ1J.ttf);
+  src: url(TrenchThin-aZ1J.ttf);
 }
 
 
 @font-face {
   font-family: heading;
-  src: url(fonts/TrenchThin-aZ1J.ttf);
+  src: url(TrenchThin-aZ1J.ttf);
 }
 
 
@@ -107,7 +107,7 @@ header {
 
 .img1 {
   margin-top: 10px;
-  background-image: url(images/planet-space-mars-4k-8l.jpg);
+  background-image: url(planet-space-mars-4k-8l.jpg);
   min-height: 100%;
   position: relative;
   opacity: 0.90;
@@ -120,7 +120,7 @@ header {
 
 .img22 {
 
-  background-image: url(images/Mars1-1000x625.jpg);
+  background-image: url(Mars1-1000x625.jpg);
   min-height: 100%;
 
   opacity: 0.90;
@@ -134,7 +134,7 @@ header {
 }
 
 .img2 {
-  background-image: url(images/802ba3c1f247021c7e9bf937cc2bf157.webp);
+  background-image: url(802ba3c1f247021c7e9bf937cc2bf157.webp);
   min-height: 100%;
 
   opacity: 0.90;
@@ -186,7 +186,7 @@ header {
 }
 
 .img3 {
-  background-image: url(images/marstronaut.jpg);
+  background-image: url(marstronaut.jpg);
   min-height: 100%;
   max-height: 100%;
   position: relative;
